@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/vreactport/static/css/main.d448a802.chunk.css",
-    "main.js": "/vreactport/static/js/main.2e0cd691.chunk.js",
-    "main.js.map": "/vreactport/static/js/main.2e0cd691.chunk.js.map",
+    "main.js": "/vreactport/static/js/main.a991936e.chunk.js",
+    "main.js.map": "/vreactport/static/js/main.a991936e.chunk.js.map",
     "runtime-main.js": "/vreactport/static/js/runtime-main.04582989.js",
     "runtime-main.js.map": "/vreactport/static/js/runtime-main.04582989.js.map",
-    "static/js/2.c4c2be93.chunk.js": "/vreactport/static/js/2.c4c2be93.chunk.js",
-    "static/js/2.c4c2be93.chunk.js.map": "/vreactport/static/js/2.c4c2be93.chunk.js.map",
+    "static/js/2.9ee4c709.chunk.js": "/vreactport/static/js/2.9ee4c709.chunk.js",
+    "static/js/2.9ee4c709.chunk.js.map": "/vreactport/static/js/2.9ee4c709.chunk.js.map",
     "index.html": "/vreactport/index.html",
     "static/css/main.d448a802.chunk.css.map": "/vreactport/static/css/main.d448a802.chunk.css.map",
-    "static/js/2.c4c2be93.chunk.js.LICENSE.txt": "/vreactport/static/js/2.c4c2be93.chunk.js.LICENSE.txt",
+    "static/js/2.9ee4c709.chunk.js.LICENSE.txt": "/vreactport/static/js/2.9ee4c709.chunk.js.LICENSE.txt",
     "static/media/Ballfinder.687f6f59.png": "/vreactport/static/media/Ballfinder.687f6f59.png",
     "static/media/Dwight.1690dd80.jpg": "/vreactport/static/media/Dwight.1690dd80.jpg",
     "static/media/Gyp.444f8563.png": "/vreactport/static/media/Gyp.444f8563.png",
@@ -20,8 +20,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.04582989.js",
-    "static/js/2.c4c2be93.chunk.js",
+    "static/js/2.9ee4c709.chunk.js",
     "static/css/main.d448a802.chunk.css",
-    "static/js/main.2e0cd691.chunk.js"
+    "static/js/main.a991936e.chunk.js"
   ]
 }
