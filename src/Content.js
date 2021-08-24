@@ -16,7 +16,6 @@ const content = (props) => {
       <Card.Header>{props.title}</Card.Header>
   <Card.Img variant="top" src={props.img} />
   <Card.Body>
-    <Card.Title></Card.Title>
     <Card.Text>
       {props.body}
     </Card.Text>

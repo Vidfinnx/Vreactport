@@ -5,7 +5,7 @@ import Footer from './Footer';
 import Form from './Form';
 import FirstPhoto from './images/TS.png'
 import SecondPhoto from './images/Tech.png'
-import ThirdPhoto from './images/Dwight.jpg'
+import ThirdPhoto from './images/Dwight.png'
 import FourthPhoto from './images/Ballfinder.png'
 import FifthPhoto from './images/Gyp.png'
 import SixthPhoto from './images/Pass.png'
@@ -56,7 +56,7 @@ export default function Portfolio() {
           key={name.id}
           title={name.title}
           img={name.img}
-          body={name.body}
+          body={projects[0].body}
           url={name.url}
           repo={name.repo}
 

@@ -22,11 +22,17 @@
   background:grey;
 }
 
+.card-text{
+  font-size:18px;
+}
 
 .card {
   max-width:15rem;
   border-radius:55px;
   margin:auto;
+  max-height:27rem;
+  flex-grow:0;
+  min-height:27rem;
 }
 
 .card-img-top{
@@ -38,6 +44,13 @@
 
 .card-title {
   color:black;
+}
+
+.card-body{
+  border-style:solid;
+  border-width:.5px;
+  border-color:green;
+
 }
 
 
@@ -56,6 +69,7 @@
 p {
   font-family:"Digital";
   color:black;
+  
 
 }
 
@@ -74,7 +88,8 @@ p {
   background-image:url("./images/Space.jpg");
   background-size:cover;
   background-repeat:no-repeat;
-  background-position:5%;
+  min-height:100vh;
+  /* background-position:65%; */
   font-size: calc(10px + 2vmin);
   color: white;
   z-index:-1;
@@ -96,4 +111,73 @@ p {
 
 .btn{
   margin-bottom:5px;
+}
+
+
+
+
+
+
+
+
+@media (min-width:1401px) and (max-width:1763px){
+  .content-container{
+  max-width:79%;
+  }
+  /* .App{
+    background-position:60%;
+  }
+   */
+}
+
+
+
+
+
+@media (min-width:1920px) and (max-width:4000px){
+  .content-container{
+  max-width:65%;
+  }
+  /* .App{
+    background-position:60%;
+  }
+   */
+}
+
+
+
+
+@media (min-width:1753px) and (max-width:1920px){
+  .content-container{
+  max-width:73%;
+  }
+  /* .App{
+    background-position:60%;
+  }
+   */
+}
+
+@media (min-width:1401px) and (max-width:1753px){
+  .content-container{
+  max-width:80%;
+  }
+  /* .App{
+    background-position:60%;
+  }
+   */
+}
+
+
+
+
+@media (min-width:500px) {
+  .content-container{
+    flex-wrap:wrap;
+    flex-direction:row;
+    
+  }
+  /* .App{
+    background-position:60%;
+  }
+   */
 }
