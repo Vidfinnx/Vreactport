@@ -10,18 +10,18 @@ import Button from 'react-bootstrap/Button'
 
 
 const content = (props) => {
-  console.log(props.img);
   return (
     <div>
       <Card>
       <Card.Header>{props.title}</Card.Header>
   <Card.Img variant="top" src={props.img} />
   <Card.Body>
-    <Card.Title>{props.title}</Card.Title>
+    <Card.Title></Card.Title>
     <Card.Text>
       {props.body}
     </Card.Text>
-    <Button variant="primary">Go somewhere</Button>
+    <Button href={props.url} variant="primary">Go To Project</Button>
+    <Button href={props.repo} variant="danger">Go To Repo</Button>
   </Card.Body>
 </Card>
     </div>

@@ -93,3 +93,7 @@ p {
 .dropdown-menu {
   background-color:grey;
 }
+
+.btn{
+  margin-bottom:5px;
+}
