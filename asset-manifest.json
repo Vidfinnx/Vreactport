@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/vreactport/static/css/main.d448a802.chunk.css",
-    "main.js": "/vreactport/static/js/main.a991936e.chunk.js",
-    "main.js.map": "/vreactport/static/js/main.a991936e.chunk.js.map",
+    "main.js": "/vreactport/static/js/main.eecd5eda.chunk.js",
+    "main.js.map": "/vreactport/static/js/main.eecd5eda.chunk.js.map",
     "runtime-main.js": "/vreactport/static/js/runtime-main.04582989.js",
     "runtime-main.js.map": "/vreactport/static/js/runtime-main.04582989.js.map",
     "static/js/2.9ee4c709.chunk.js": "/vreactport/static/js/2.9ee4c709.chunk.js",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.04582989.js",
     "static/js/2.9ee4c709.chunk.js",
     "static/css/main.d448a802.chunk.css",
-    "static/js/main.a991936e.chunk.js"
+    "static/js/main.eecd5eda.chunk.js"
   ]
 }
