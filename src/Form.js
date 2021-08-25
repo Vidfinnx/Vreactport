@@ -13,7 +13,7 @@ function EmailForm() {
     return (
         <div className="inputForm">
             <Form onSubmit={handleSubmit}>
-            {message && <span style={{ fontFamily: 'Digital'}}>Thank You for Your Submission</span>}
+            {message && <span style={{ fontFamily: 'Digital', backgroundColor: 'black', color: '#6495ed'}}>Thank You for Your Submission</span>}
                 <Form.Group className="mb-3" controlId="formBasicName">
                     <Form.Control type="name" placeholder="Enter name" />
                 </Form.Group>

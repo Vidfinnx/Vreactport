@@ -55,6 +55,12 @@
 
 } */
 
+.dropdown-item{
+  color:cornflowerblue;
+}
+.navbar-nav .dropdown-menu {
+  background-color: #343a40;
+}
 
 a {
   font-size:25px;
