@@ -9,11 +9,13 @@
   border-style:solid;
   border-width:1px;
   border-color:yellow;
-  /* margin-top:50%; */
+  margin:auto;
  
 }
 
-
+.navbar-dark .navbar-nav .nav-link {
+  color: cornflowerblue;
+}
 
 .footer{
   max-height:30px;
@@ -46,11 +48,21 @@
   color:black;
 }
 
-.card-body{
+/* .card-body{
   border-style:solid;
   border-width:.5px;
   border-color:green;
 
+} */
+
+
+.navbar-brand{
+  font-size:30px;
+  
+}
+
+.navbar-dark .navbar-brand {
+  color: cornflowerblue;
 }
 
 
@@ -58,9 +70,9 @@
 .content-container{
   display:flex;
   flex-direction:column;
-  border-style:solid;
+  /* border-style:solid;
   border-color:yellow;
-  border-width:1px;
+  border-width:1px; */
   margin-top:50px;
   width:100%;
   gap:50px;
@@ -114,7 +126,11 @@ p {
 }
 
 
-
+@media (min-width:715px){
+  .navbar{
+    max-width:65%
+  }
+}
 
 
 
