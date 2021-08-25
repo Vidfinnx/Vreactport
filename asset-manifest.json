@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/vreactport/static/css/main.f53adf0b.chunk.css",
-    "main.js": "/vreactport/static/js/main.808b0c66.chunk.js",
-    "main.js.map": "/vreactport/static/js/main.808b0c66.chunk.js.map",
+    "main.css": "/vreactport/static/css/main.34cd77a4.chunk.css",
+    "main.js": "/vreactport/static/js/main.7e36c227.chunk.js",
+    "main.js.map": "/vreactport/static/js/main.7e36c227.chunk.js.map",
     "runtime-main.js": "/vreactport/static/js/runtime-main.04582989.js",
     "runtime-main.js.map": "/vreactport/static/js/runtime-main.04582989.js.map",
-    "static/js/2.9552b9eb.chunk.js": "/vreactport/static/js/2.9552b9eb.chunk.js",
-    "static/js/2.9552b9eb.chunk.js.map": "/vreactport/static/js/2.9552b9eb.chunk.js.map",
+    "static/js/2.af2eefd3.chunk.js": "/vreactport/static/js/2.af2eefd3.chunk.js",
+    "static/js/2.af2eefd3.chunk.js.map": "/vreactport/static/js/2.af2eefd3.chunk.js.map",
     "index.html": "/vreactport/index.html",
-    "static/css/main.f53adf0b.chunk.css.map": "/vreactport/static/css/main.f53adf0b.chunk.css.map",
-    "static/js/2.9552b9eb.chunk.js.LICENSE.txt": "/vreactport/static/js/2.9552b9eb.chunk.js.LICENSE.txt",
+    "static/css/main.34cd77a4.chunk.css.map": "/vreactport/static/css/main.34cd77a4.chunk.css.map",
+    "static/js/2.af2eefd3.chunk.js.LICENSE.txt": "/vreactport/static/js/2.af2eefd3.chunk.js.LICENSE.txt",
     "static/media/Ballfinder.7720eb6b.png": "/vreactport/static/media/Ballfinder.7720eb6b.png",
     "static/media/Dwight.e7e8ab7b.png": "/vreactport/static/media/Dwight.e7e8ab7b.png",
     "static/media/Gyp.444f8563.png": "/vreactport/static/media/Gyp.444f8563.png",
@@ -20,8 +20,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.04582989.js",
-    "static/js/2.9552b9eb.chunk.js",
-    "static/css/main.f53adf0b.chunk.css",
-    "static/js/main.808b0c66.chunk.js"
+    "static/js/2.af2eefd3.chunk.js",
+    "static/css/main.34cd77a4.chunk.css",
+    "static/js/main.7e36c227.chunk.js"
   ]
 }
