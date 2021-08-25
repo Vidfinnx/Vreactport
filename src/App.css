@@ -56,8 +56,17 @@
 } */
 
 
+a {
+  font-size:25px;
+}
+
+.navbar{
+  padding:0;
+}
 .navbar-brand{
   font-size:30px;
+  padding-bottom:0;
+  padding-top:0;
   
 }
 

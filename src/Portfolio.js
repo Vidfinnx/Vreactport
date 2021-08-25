@@ -30,7 +30,7 @@ export default function Portfolio() {
 
   ];
 
-  // const names = projects.map(name => name);
+
 
 
 
