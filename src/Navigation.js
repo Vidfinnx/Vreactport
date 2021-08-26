@@ -17,7 +17,7 @@ export default function Navigation(props) {
   <Navbar.Toggle aria-controls="responsive-navbar-nav" />
   <Navbar.Collapse id="responsive-navbar-nav">
     <Nav className="me-auto">
-      <Nav.Link >About-Me</Nav.Link>
+      <Nav.Link href="#about-me" onClick={() => props.renderAboutme()}>About-Me</Nav.Link>
       <Nav.Link href="#portfolio" onClick={() => props.renderContent()}>Portfolio</Nav.Link>
       <Nav.Link href="https://github.com/Vidfinnx/VidPort2/raw/main/Aho2020PDF.pdf">Resume</Nav.Link>
       <NavDropdown title="More Info" id="collasible-nav-dropdown">

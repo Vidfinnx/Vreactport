@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, { useState, useEffect } from 'react'
 import Content from './Content';
 import Navigation from './Navigation';
 import Footer from './Footer';
@@ -9,6 +9,7 @@ import ThirdPhoto from './images/Dwight.png'
 import FourthPhoto from './images/Ballfinder.png'
 import FifthPhoto from './images/Gyp.png'
 import SixthPhoto from './images/Pass.png'
+import Aboutme from './Aboutme';
 
 
 
@@ -31,10 +32,14 @@ export default function Portfolio() {
   ];
 
 
-
-
-
-
+  useEffect(() => {
+    renderAboutme();
+  },[]);
+  
+  const renderAboutme = () => {
+    console.log("RENDER ABOUTME");
+    setActive("Me");
+  }
   const renderContent = () => {
     console.log("RENDER CONTENT");
     setActive("Card");
@@ -49,8 +54,10 @@ export default function Portfolio() {
     <div className="portfolio">
       <Navigation
         renderContent={renderContent}
-        renderForm={renderForm}>
-      </Navigation>
+        renderForm={renderForm}
+        renderAboutme={renderAboutme}>
+      </Navigation> 
+      {active === "Me" && <Aboutme/>}
       <div className="content-container">
         {active === "Card" && projects.map((name) => (<Content
           key={name.id}

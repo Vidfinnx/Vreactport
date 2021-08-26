@@ -5,6 +5,16 @@
 }
 
 
+
+.container-md{
+  margin-top:5%;
+  background-color:#343a40;
+}
+.col {
+ color:cornflowerblue;
+}
+
+
 .inputForm{
   border-style:solid;
   border-width:1px;
