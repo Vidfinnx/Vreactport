@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/vreactport/static/css/main.1cb8bea4.chunk.css",
-    "main.js": "/vreactport/static/js/main.825d66ad.chunk.js",
-    "main.js.map": "/vreactport/static/js/main.825d66ad.chunk.js.map",
+    "main.css": "/vreactport/static/css/main.333795a3.chunk.css",
+    "main.js": "/vreactport/static/js/main.d55b2ae5.chunk.js",
+    "main.js.map": "/vreactport/static/js/main.d55b2ae5.chunk.js.map",
     "runtime-main.js": "/vreactport/static/js/runtime-main.04582989.js",
     "runtime-main.js.map": "/vreactport/static/js/runtime-main.04582989.js.map",
     "static/js/2.3054227b.chunk.js": "/vreactport/static/js/2.3054227b.chunk.js",
     "static/js/2.3054227b.chunk.js.map": "/vreactport/static/js/2.3054227b.chunk.js.map",
     "index.html": "/vreactport/index.html",
-    "static/css/main.1cb8bea4.chunk.css.map": "/vreactport/static/css/main.1cb8bea4.chunk.css.map",
+    "static/css/main.333795a3.chunk.css.map": "/vreactport/static/css/main.333795a3.chunk.css.map",
     "static/js/2.3054227b.chunk.js.LICENSE.txt": "/vreactport/static/js/2.3054227b.chunk.js.LICENSE.txt",
     "static/media/AhoBG.810df933.jpg": "/vreactport/static/media/AhoBG.810df933.jpg",
     "static/media/Ballfinder.7720eb6b.png": "/vreactport/static/media/Ballfinder.7720eb6b.png",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.04582989.js",
     "static/js/2.3054227b.chunk.js",
-    "static/css/main.1cb8bea4.chunk.css",
-    "static/js/main.825d66ad.chunk.js"
+    "static/css/main.333795a3.chunk.css",
+    "static/js/main.d55b2ae5.chunk.js"
   ]
 }
