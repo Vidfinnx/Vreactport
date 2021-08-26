@@ -9,7 +9,7 @@ function Aboutme() {
     return (
         <div>
             <Container  fluid="md">
-            <Col style={{fontFamily: 'Digital', fontSize: '30px', fontColor: 'cornflowerblue'}}>About Me</Col>
+            <Col style={{fontFamily: 'Digital', fontSize: '35px', fontColor: 'cornflowerblue'}}>About Me</Col>
             <Image src={AhoBG} fluid />
                 <Row>
                     <Col style={{fontFamily: 'Digital',fontSize:'25px'}}>My name is Veikko Aho, that means brother in the Finnish Language.

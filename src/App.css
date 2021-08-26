@@ -4,11 +4,16 @@
   src: url('./fonts/digital7.ttf');
 }
 
-
-
+.img-fluid{
+  border-radius:5%;
+  max-width:90%;
+}
 .container-md{
   margin-top:5%;
   background-color:#343a40;
+  border-radius:5%;
+  float:left;
+  
 }
 .col {
  color:cornflowerblue;
@@ -73,21 +78,27 @@
 }
 
 a {
-  font-size:25px;
+  font-size:30px;
 }
 
 .navbar{
   padding:0;
 }
+
+
 .navbar-brand{
-  font-size:30px;
-  padding-bottom:0;
-  padding-top:0;
+  font-size:45px;
+  /* padding-bottom:0;
+  padding-top:0; */
+  
   
 }
 
 .navbar-dark .navbar-brand {
-  color: cornflowerblue;
+  color:yellow;
+  border-radius:5%;
+ 
+  
 }
 
 
@@ -125,6 +136,7 @@ p {
   background-image:url("./images/Space.jpg");
   background-size:cover;
   background-repeat:no-repeat;
+  background-position:0% -28%;
   min-height:100vh;
   /* background-position:65%; */
   font-size: calc(10px + 2vmin);
@@ -151,11 +163,11 @@ p {
 }
 
 
-@media (min-width:715px){
+/* @media (min-width:715px){
   .navbar{
     max-width:65%
   }
-}
+} */
 
 
 
@@ -193,9 +205,9 @@ p {
 
 
 
-@media (min-width:1753px) and (max-width:1920px){
+@media (min-width:1750px) and (max-width:1920px){
   .content-container{
-  max-width:73%;
+  max-width:72%;
   }
   /* .App{
     background-position:60%;
@@ -203,7 +215,7 @@ p {
    */
 }
 
-@media (min-width:1401px) and (max-width:1753px){
+@media (min-width:1401px) and (max-width:1750px){
   .content-container{
   max-width:80%;
   }
@@ -227,3 +239,8 @@ p {
   }
    */
 }
+
+@media (min-width: 576px){
+.container, .container-sm {
+    max-width: 100%;
+}}
