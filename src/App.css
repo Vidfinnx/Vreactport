@@ -33,11 +33,13 @@
 }
 
 .footer{
-  max-height:30px;
   position:fixed;
+  right:0px;
   bottom:-1px;
   background:grey;
 }
+
+
 
 .card-text{
   font-size:18px;
@@ -87,7 +89,7 @@ a {
 
 
 .navbar-brand{
-  font-size:45px;
+  font-size:40px;
   /* padding-bottom:0;
   padding-top:0; */
   
