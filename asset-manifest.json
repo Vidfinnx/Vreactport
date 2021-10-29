@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/vreactport/static/css/main.6c9b723d.chunk.css",
-    "main.js": "/vreactport/static/js/main.03e002cc.chunk.js",
-    "main.js.map": "/vreactport/static/js/main.03e002cc.chunk.js.map",
+    "main.css": "/vreactport/static/css/main.aec9a07d.chunk.css",
+    "main.js": "/vreactport/static/js/main.2763c15f.chunk.js",
+    "main.js.map": "/vreactport/static/js/main.2763c15f.chunk.js.map",
     "runtime-main.js": "/vreactport/static/js/runtime-main.04582989.js",
     "runtime-main.js.map": "/vreactport/static/js/runtime-main.04582989.js.map",
-    "static/js/2.e8c1d771.chunk.js": "/vreactport/static/js/2.e8c1d771.chunk.js",
-    "static/js/2.e8c1d771.chunk.js.map": "/vreactport/static/js/2.e8c1d771.chunk.js.map",
+    "static/js/2.1525de97.chunk.js": "/vreactport/static/js/2.1525de97.chunk.js",
+    "static/js/2.1525de97.chunk.js.map": "/vreactport/static/js/2.1525de97.chunk.js.map",
     "index.html": "/vreactport/index.html",
-    "static/css/main.6c9b723d.chunk.css.map": "/vreactport/static/css/main.6c9b723d.chunk.css.map",
-    "static/js/2.e8c1d771.chunk.js.LICENSE.txt": "/vreactport/static/js/2.e8c1d771.chunk.js.LICENSE.txt",
+    "static/css/main.aec9a07d.chunk.css.map": "/vreactport/static/css/main.aec9a07d.chunk.css.map",
+    "static/js/2.1525de97.chunk.js.LICENSE.txt": "/vreactport/static/js/2.1525de97.chunk.js.LICENSE.txt",
     "static/media/AhoBG.810df933.jpg": "/vreactport/static/media/AhoBG.810df933.jpg",
     "static/media/Ballfinder.7720eb6b.png": "/vreactport/static/media/Ballfinder.7720eb6b.png",
     "static/media/Dwight.e7e8ab7b.png": "/vreactport/static/media/Dwight.e7e8ab7b.png",
@@ -19,12 +19,14 @@
     "static/media/Pass.0f921133.png": "/vreactport/static/media/Pass.0f921133.png",
     "static/media/App.css": "/vreactport/static/media/digital7.93911ab1.ttf",
     "static/media/TS.e9efeea9.png": "/vreactport/static/media/TS.e9efeea9.png",
-    "static/media/Tech.37dee199.png": "/vreactport/static/media/Tech.37dee199.png"
+    "static/media/Tech.37dee199.png": "/vreactport/static/media/Tech.37dee199.png",
+    "static/media/VarcadeResize.ce095926.png": "/vreactport/static/media/VarcadeResize.ce095926.png",
+    "static/media/night3.419dea7b.jpg": "/vreactport/static/media/night3.419dea7b.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.04582989.js",
-    "static/js/2.e8c1d771.chunk.js",
-    "static/css/main.6c9b723d.chunk.css",
-    "static/js/main.03e002cc.chunk.js"
+    "static/js/2.1525de97.chunk.js",
+    "static/css/main.aec9a07d.chunk.css",
+    "static/js/main.2763c15f.chunk.js"
   ]
 }
