@@ -16,6 +16,9 @@ const content = (props) => {
       <Card.Header>{props.title}</Card.Header>
   <Card.Img variant="top" src={props.img} />
   <Card.Body>
+  <Card.Text style={{color:'limegreen',background:'black',borderRadius:'20px'}}>
+    {props.tech}
+    </Card.Text>
     <Card.Text>
       {props.body}
     </Card.Text>

@@ -19,7 +19,7 @@ export default function Navigation(props) {
     <Nav className="me-auto">
       <Nav.Link href="#about-me" onClick={() => props.renderAboutme()}>About-Me</Nav.Link>
       <Nav.Link href="#portfolio" onClick={() => props.renderContent()}>Portfolio</Nav.Link>
-      <Nav.Link href="https://github.com/Vidfinnx/VidPort2/raw/main/Aho2020PDF.pdf">Resume</Nav.Link>
+      <Nav.Link href="https://docs.google.com/document/d/1mWhkMeu6Y7v-HDV-aDc4wvNQaeCBf0jTv5WwKNeUU9o/edit">Resume</Nav.Link>
       <NavDropdown title="More Info" id="collasible-nav-dropdown">
         <NavDropdown.Item href="#" onClick={() => props.renderForm()}>Contact-Me</NavDropdown.Item>
       </NavDropdown>
