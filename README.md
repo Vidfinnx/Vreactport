@@ -7,6 +7,9 @@
   - [Contact Information For Questions](#questions)
   
   # Description
+  
+  This is my React Portfolio that I initially designed during my Coding Bootcamp
+  It is a continuous work in progress 
 
   Deployed Application: https://vidfinnx.github.io/vreactport/
 
